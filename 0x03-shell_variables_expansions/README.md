@@ -24,3 +24,4 @@ script that prints a number with two decimal places, followed by a new line.
 
 The number will be stored in the environment variable NUM.
 script that converts a number from base 10 to base 16.
+script that encodes and decodes text using the rot13 encryption. Assume ASCII.
